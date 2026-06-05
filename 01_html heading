@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Headings and Code Example</title>
+</head>
+<body>
+    <h1>My Software Development Project</h1>
+    <p>Welcome to the home page of my very first software application.</p>
+    <h2>Python Program Code</h2>
+    <p>Below is the source code used to run our system greeting:</p>
+    <pre>
+        <code>
+# This is a simple Python program
+print("Hello, World!")
+        </code>
+    </pre>
+    <h2>System Requirements</h2>
+    <p>This program requires Python version 3.0 or higher to run properly.</p>
+
+</body>
+</html>
